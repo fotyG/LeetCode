@@ -8,7 +8,6 @@ var pivotIndex = function (nums) {
   let leftSum = 0;
 
   for (let i = 0; i < nums.length; i++) {
-    debugger;
     sum += nums[i];
   }
 
